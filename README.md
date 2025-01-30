@@ -32,9 +32,9 @@
 1. **Week 1**: The basics
     1.  [**Introduction**](lectures/introduction/)
     2.  [**Triangles**](lectures/triangle/)
-<!-- 2. **Week 2**: Moving in video games
+2. **Week 2**: Moving in video games
     1.  [**You're getting old, Matrix**](lectures/matrices/)
-    2.  [**Transformations**](lectures/transformations/) -->
+    2.  [**Transformations**](lectures/transformations/)
 <!-- 3. **Week 3**: Applying art to our games
     1.  [**Delta Time**](lectures/delta-time/)
     2.  [**Textures**](lectures/textures/) -->
@@ -83,7 +83,8 @@
 
 | **E-Mail**                                  | **Office Hours**                                                                                                     |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| [**wz2445@nyu.edu**](mailto:wz2445@nyu.edu) | TBD                                                     |
+| [**wz2445@nyu.edu**](mailto:wz2445@nyu.edu) | Monday Tuesday 10:30 - 12:00 pm at 8th floor 370 Jay Street  <br> Friday 10:00 - 12:00 online|
+
 
 <br>
 
