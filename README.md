@@ -161,13 +161,13 @@ All work is to be done on your own. There are no group projects.
 
 #### Project Schedule
 
-| Project                 | Release Date | Due Date   |
-|-------------------------|--------------|------------|
-| **Simple Scene**        | 02/07        | 02/15      |
-| **Pong**                | 02/27        | 03/01      |
-| **Lunar Lander**        | 02/28        | 03/15      |
-| **Platformer**          | 03/14        | 04/05      |
-| **Students' Choice**    | 04/04        | 04/25 & 05/02        |
+| Project                 | Release Date | Due Date      |
+|-------------------------|--------------|---------------|
+| **Simple Scene**        | 02/07        | 02/15         |
+| **Pong**                | 02/27        | 03/01         |
+| **Lunar Lander**        | 02/28        | 03/15         |
+| **Platformer**          | 03/14        | 04/05         |
+| **Students' Choice**    | 04/04        | 04/25 & 05/02 |
 
 <br>
 
