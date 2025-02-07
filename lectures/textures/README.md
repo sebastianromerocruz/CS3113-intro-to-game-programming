@@ -4,7 +4,7 @@
 
 <h3 align=center>7 Pegasus Moon, Imperial Year MMXXV</h3>
 
-***Song of the day***: _[**Why Can’t You Love Me? [Band Ver]**](https://www.youtube.com/watch?v=33tITqSwGB8) by Wendy (2021)._
+***Song of the day***: _[**Bodysnatchers**](https://youtu.be/nIQxhSvSRnQ?si=VoUHJM-WO9ZVoUf-) by Radiohead (2007)._
 
 ---
 
