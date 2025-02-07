@@ -97,7 +97,7 @@ GLuint load_texture(const char* filepath)
 
 void initialise()
 {
-    // Initialise video and joystick subsystems
+    // Initialise video
     SDL_Init(SDL_INIT_VIDEO);
 
     g_display_window = SDL_CreateWindow("Hello, Textures!",
@@ -135,7 +135,7 @@ void initialise()
 
     glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
 
-    g_kimi_texture_id   = load_texture(KIMI_SPRITE_FILEPATH);
+    g_kimi_texture_id    = load_texture(KIMI_SPRITE_FILEPATH);
     g_totsuko_texture_id = load_texture(TOTSUKO_SPRITE_FILEPATH);
 
     glEnable(GL_BLEND);
@@ -173,9 +173,9 @@ void update()
 
     /* Transformations */
     g_kimi_matrix = glm::translate(g_kimi_matrix, INIT_POS_KIMI);
-    g_kimi_matrix = glm::rotate(g_kimi_matrix,
-                                 g_rotation_kimi.y,
-                                 glm::vec3(0.0f, 1.0f, 0.0f));
+    g_kimi_matrix = glm::rotate(g_kimi_matrix,                 // rotating in respect to kimi
+                                 g_rotation_kimi.y,            // by the accumulated amt in the y-axis
+                                 glm::vec3(0.0f, 1.0f, 0.0f)); // just in the y-axis
     g_kimi_matrix = glm::scale(g_kimi_matrix, INIT_SCALE);
 
     g_totsuko_matrix = glm::translate(g_totsuko_matrix, INIT_POS_TOTSUKO);
@@ -208,7 +208,7 @@ void render()
     // Textures
     float texture_coordinates[] =
     {
-        0.0f, 1.0f, 1.0f, 1.0f, 1.0f, 0.0f,     // triangle 1
+        0.0f, 0.0f, 1.0f, 1.0f, 1.0f, 0.0f,     // triangle 1
         0.0f, 1.0f, 1.0f, 0.0f, 0.0f, 0.0f,     // triangle 2
     };
 

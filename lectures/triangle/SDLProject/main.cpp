@@ -27,8 +27,8 @@
 enum AppStatus { RUNNING, TERMINATED };
 
 // Our window dimensions
-constexpr int WINDOW_WIDTH  = 640,
-              WINDOW_HEIGHT = 480;
+constexpr int WINDOW_WIDTH  = 640 * 2,
+              WINDOW_HEIGHT = 480 * 2;
 
 // Background color components
 constexpr float BG_RED     = 0.1922f,
@@ -54,6 +54,8 @@ constexpr float TRIANGLE_RED     = 1.0,
                 TRIANGLE_GREEN   = 0.4,
                 TRIANGLE_OPACITY = 1.0;
 
+constexpr float HARDCODED_DELTA_TIME = 0.0166f;
+
 AppStatus g_app_status = RUNNING;
 SDL_Window* g_display_window;
 
@@ -62,6 +64,7 @@ ShaderProgram g_shader_program;
 glm::mat4 g_view_matrix,        // Defines the position (location and orientation) of the camera
           g_model_matrix,       // Defines every translation, rotation, and/or scaling applied to an object; we'll look at these next week
           g_projection_matrix;  // Defines the characteristics of your camera, such as clip panes, field of view, projection method, etc.
+
 
 void initialise()
 {

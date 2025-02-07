@@ -1,4 +1,4 @@
-<!-- <h2 align=center>Week 03</h2>
+<h2 align=center>Week 03</h2>
 
 <h1 align=center>Exercise: <em>Transformations</em></h1>
 
@@ -12,7 +12,7 @@ In this exercise, we will implement transformations on an object; in this case a
 
 <sub>**Figure 1**: Your goal.</sub>
 
-You can find the starter code [**here**](SDLProject/main.cpp).
+<!-- You can find the starter code [**here**](SDLProject/main.cpp). -->
 
 The triangle's movement has to satisfy the following:
 1. It must "orbit" the origin (i.e. the centre of the screen).
@@ -33,4 +33,4 @@ The triangle's movement has to satisfy the following:
 
 If you want a hint, you could take a look at [**this**](https://crystalclearmaths.com/wp-content/uploads/2015/11/Unit-Circle.jpg).
 
-[**Solution**](https://www.youtube.com/watch?v=V3R9y5v8GUY) -->
+[**Solution**](https://www.youtube.com/watch?v=V3R9y5v8GUY)
