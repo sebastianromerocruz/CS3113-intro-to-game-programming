@@ -4,7 +4,7 @@
 
 <h3 align=center>27 Horsebow  Moon, Imperial Year MMXXIV</h3>
 
-***Song of the day***: _[**catalogue**](https://youtu.be/9ZK0EKMW-7g?si=waT9lP2eG25m6RzB) by julie  (2023)._
+***Song of the day***: _[**Easily**](https://www.youtube.com/watch?v=sRJ4RywOPvA) by Bruno Major  (2018)._
 
 ---
 
