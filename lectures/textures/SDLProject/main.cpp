@@ -133,7 +133,7 @@ void initialise()
 
     glUseProgram(g_shader_program.get_program_id());
 
-    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
 
     g_kimi_texture_id    = load_texture(KIMI_SPRITE_FILEPATH);
     g_totsuko_texture_id = load_texture(TOTSUKO_SPRITE_FILEPATH);

@@ -64,7 +64,7 @@ int main(int argc, char* argv[])
     glewInit();
 #endif
     
-    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
     
     /**
      The `SDL_Event` type is a union that contains structures for the different event types, like quitting or closing.

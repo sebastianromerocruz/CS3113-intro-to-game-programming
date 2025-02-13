@@ -2,9 +2,9 @@
 
 <h1 align=center>Player Input</h1>
 
-<h3 align=center>27 Horsebow  Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>14 Pegasus Moon, Imperial Year MMXXV</h3>
 
-***Song of the day***: _[**catalogue**](https://youtu.be/9ZK0EKMW-7g?si=waT9lP2eG25m6RzB) by julie  (2023)._
+***Song of the day***: _[**Just the two of us**](https://www.youtube.com/watch?v=v8oqbWrP1QY) by Grover Washington feat. Bill Withers (1981)._
 
 ---
 

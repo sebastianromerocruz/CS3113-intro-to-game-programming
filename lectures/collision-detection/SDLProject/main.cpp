@@ -141,7 +141,7 @@ void initialise()
     
     glUseProgram(g_shader_program.get_program_id());
     
-    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
     
     g_shield_texture_id = load_texture(SHIELD_SPRITE_FILEPATH);
     g_sword_texture_id = load_texture(SWORD_SPRITE_FILEPATH);
