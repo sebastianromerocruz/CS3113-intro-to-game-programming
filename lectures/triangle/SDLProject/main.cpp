@@ -114,7 +114,7 @@ void initialise()
     // Each object has its own unique ID
     glUseProgram(g_shader_program.get_program_id());
     
-    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
 }
 
 void process_input()

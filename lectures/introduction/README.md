@@ -83,7 +83,7 @@ int main(int argc, char* argv[])
     glewInit();
 #endif
     
-    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
     
     SDL_Event event;
     while (g_game_is_running)
@@ -227,7 +227,7 @@ And now, the moment of truth.
 The function call making our background blue is the following:
 
 ```c++
-glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
 ```
 
 <sub>**Note**: Remember our RBG values were defined in the constants section.</sub>

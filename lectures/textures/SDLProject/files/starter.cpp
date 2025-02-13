@@ -120,7 +120,7 @@
 //
 //    glUseProgram(g_shader_program.get_program_id());
 //
-//    glClearColor(BG_RED, BG_BLUE, BG_GREEN, BG_OPACITY);
+//    glClearColor(BG_RED, BG_GREEN, BG_BLUE, BG_OPACITY);
 //
 //    g_texture_id   = load_texture(SPRITE_FILEPATH);
 //
