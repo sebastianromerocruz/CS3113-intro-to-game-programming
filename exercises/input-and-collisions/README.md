@@ -1,4 +1,4 @@
-<!-- <h2 align=center>Week 04</h2>
+<h2 align=center>Week 04</h2>
 
 <h1 align=center>Exercise: <em>User Input and Collision Detection</em></h1>
 
@@ -143,4 +143,4 @@ Since we only want to scale down if the drops' accumulated scale is positive, we
 Moreover, the drop is _still_ falling, even though we've already collided. So, write a check below your code from part 3 that:
 - Zeroes out the drops' accumulated scale.
 - Turns off the drops' scaling triggers.
-- Turns off the drops' falling trigger. -->
+- Turns off the drops' falling trigger.
