@@ -30,9 +30,9 @@
 
 #### _Requirements_
 
-1. [**Paddles / Players (25%)**](#req-1)
-2. [**Single-Player Switch (25%)**](#req-2)
-3. [**Bounces Off Walls (25%)**](#req-3)
+1. [**Paddles / Players (30%)**](#req-1)
+2. [**Single-Player Switch (30%)**](#req-2)
+3. [**Bounces Off Walls (15%)**](#req-3)
 4. [**Game Over (25%)**](#req-4)
 
 #### _Tips_
