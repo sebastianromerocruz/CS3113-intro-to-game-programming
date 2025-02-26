@@ -4,7 +4,7 @@
 
 <h3 align=center>21 Pegasus Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=8s9vljW8HLA"><strong><u>果実 (Fruit)</u></strong></a> by Akasaki (2023)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=HfWLgELllZs"><strong><u>Luther</u></strong></a> by Kendrick (2025)</em></p>
 
 
 ---
