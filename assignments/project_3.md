@@ -1,5 +1,5 @@
 <h4 align=center>NYU Tandon School of Engineering<h4>
-<h3 align=center>CS-UY 3113 Fall 2025</h3>
+<h3 align=center>CS-UY 3113 Spring 2025</h3>
 <h1 align=center>Project 3: <em>Lunar Lander</em></h1>
 <h3 align=center><em>Due: 11:59pm, Sunday, March 15th, 2025</em></h3>
 
@@ -31,8 +31,8 @@
 
 1. [**Player Falls With Gravity (35%)**](#req-1)
 2. [**Moving With Acceleration (35%)**](#req-2)
-3. [**Mission Failed (15%)**](#req-3)
-3. [**Mission Accomplished (15%)**](#req-4)
+3. [**Mission Failed / Mission Accomplished (15%)**](#req-3)
+3. [**Fuel Mechanic (15%)**](#req-4)
 
 #### _Tips_
 
@@ -56,15 +56,18 @@
 
 <a id="req-3"></a>
 
-### Requirement 3: _Mission Failed (15%)_
+### Requirement 3: _Mission Failed / Mission Accomplished (15%)_
 
 - If the player touches anywhere in the map that they're not supposed to, show a "mission failed" message on screen, ending the game.
+- If the player touches one of the platforms necessary to win the game, show a "mission accomplished" message on screen, ending the game.
 
 <a id="req-4"></a>
 
-### Requirement 4: _Mission Accomplished (15%)_
+### Requirement 4: _Fuel Mechanic (15%)_
 
-- If the player touches one of the platforms necessary to win the game, show a "mission accomplished" message on screen, ending the game.
+- Add a "fuel" mechanic to the game. 
+    - When the player is pressing a key to change the acceleration, your game should use up some of this fuel. 
+    - Once your fuel has run out, pressing a key to change the acceleration should no longer work.
 
 <br>
 
@@ -81,7 +84,5 @@
 
 ### _Extra Credit_
 
-- Add a "fuel" mechanic to the game. 
-    - When the player is pressing a key to change the acceleration, your game should use up some of this fuel. 
-    - Once your fuel has run out, pressing a key to change the acceleration should no longer work.
 - Have UI displaying the amount of fuel remaining.
+- Add _at least_ one moving platform that the player can touch and either lose or win the game with.
