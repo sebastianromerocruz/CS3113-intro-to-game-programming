@@ -2,9 +2,9 @@
 
 <h1 align=center>Colliding with Different Kinds of Entities</h1>
 
-<h3 align=center>11 Wyvern Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>28 Pegasus Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=rZxCk39NXxU"><strong><u>Drunk</u></strong></a> by Dijon (2019).</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=QX28FyxFKRA"><strong><u>shoreline</u></strong></a> by Chloe Moriondo (2025).</em></p>
 
 ### Sections
 
