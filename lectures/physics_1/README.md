@@ -2,9 +2,9 @@
 
 <h1 align=center>Physics: <em>Fixed Timestep and Gravity</em></h1>
 
-<h3 align=center>11 Wyvern Moon, Imperial Year MMXXIV<<h3>
+<h3 align=center>28 Pegasus Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=rZxCk39NXxU"><strong><u>Drunk</u></strong></a> by Dijon (2019)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=WxL2au41cnk"><strong><u>Erase Your Social</u></strong></a> by Lil Uzi Vert (2017)</em></p>
 
 ---
 
