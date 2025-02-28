@@ -1,4 +1,4 @@
-<!-- <h2 align=center>Week 06</h2>
+<h2 align=center>Week 06</h2>
 
 <h1 align=center>Exercise: <em>The <code>Entity</code> Class, Animation, and Witches</em></h1>
 
@@ -123,4 +123,4 @@ Now that you've gotten your `ATTACK` animation correct, your last step is to ens
 - If the player is holding down the `A` key, the witch should be in `ATTACK` mode.
 - Otherwise, the witch should be in `IDLE` mode.
 
-No other functionality is necessary. -->
+No other functionality is necessary.
