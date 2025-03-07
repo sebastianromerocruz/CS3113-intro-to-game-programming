@@ -2,7 +2,7 @@
 
 <h1 align=center>Basic Enemy AI</h1>
 
-<h3 align=center>16 Wyvern Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>7 Lone Moon, Imperial Year MMXXV</h3>>
 
 <p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=jFkXLastC7I&feature=youtu.be"><strong><u>4D Country</u></strong></a> by Geese (2023).</em></p>
 ---
