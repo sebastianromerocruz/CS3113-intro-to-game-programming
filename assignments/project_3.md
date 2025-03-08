@@ -1,7 +1,7 @@
 <h4 align=center>NYU Tandon School of Engineering<h4>
 <h3 align=center>CS-UY 3113 Spring 2025</h3>
 <h1 align=center>Project 3: <em>Lunar Lander</em></h1>
-<h3 align=center><em>Due: 11:59pm, Sunday, March 15th, 2025</em></h3>
+<h3 align=center><em>Due: 11:59pm, Saturday, March 15th, 2025</em></h3>
 
 ### Submission instructions
 1. You _must_ use delta time, the `Entity` class, and fixed time steps in this assignment.

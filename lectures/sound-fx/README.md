@@ -2,7 +2,7 @@
 
 <h1 align=center>Music and Sound Effects</h1>
 
-<h3 align=center>16 Wyvern Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>7 Lone Moon, Imperial Year MMXXV</h3>
 
 <p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=bIX_ouNJsTs"><strong><u>Not Strong Enough</u></strong></a> by boy genius (2023).</em></p>
 
