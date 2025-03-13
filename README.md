@@ -125,7 +125,7 @@ You will also need a [**Github**](https://github.com/) account!
 | **_Project 1_**: [**Draw a Simple 2D Scene**](assignments/project_1.md) | 10%            |
 | **_Project 2_**: [**Pong**](assignments/project_2.md)                   | 10%            |
 | **_Project 3_**: [**Lunar Lander**](assignments/project_3.md)           | 15%            |
-| **_Project 4_**: [**Platformer**](assignments/project_5.md)             | 25%            |
+| **_Project 4_**: [**Rise of The AI**](assignments/project_4.md)         | 25%            |
 | **_Project 5_**: [**Students' Choice**]()                               | 30%            |
 | **_Classwork_**                                                         | 10%            |
 
