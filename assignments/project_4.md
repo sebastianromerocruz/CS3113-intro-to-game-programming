@@ -23,7 +23,7 @@
 ```
 
 <p align=center><em><strong>No late submissions will be accepted</em></strong>.</p>
-<p align=center><em><strong>Due to timing limitation for the remainder of the semester, only extensions approved by the Office of Student Advocacy will be accepted</em></strong>.</p>
+<p align=center><em><strong>Due to timing limitations for the remainder of the semester, only extensions approved by the Office of Student Advocacy will be accepted</em></strong>.</p>
 
 ## You must use new assets (art, music, and sound) for this project!
 
