@@ -5,7 +5,7 @@
 
 <h3 align=center>14 Lone Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=phT2MJAn1KY&ab_channel=TOMORROWXTOGETHER-Topic"><strong><u>Thursday's Child Has Far To Go</u></strong></a> by TXT (2022).</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=ievPZZ8rxHU"><strong><u>Double Agent</u></strong></a> by WAV.AV (2016).</em></p>
 
 ---
 
