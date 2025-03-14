@@ -1,7 +1,7 @@
 <h4 align=center>NYU Tandon School of Engineering<h4>
-<h3 align=center>CS-UY 3113 Fall 2024</h3>
+<h3 align=center>CS-UY 3113 Spring 2025</h3>
 <h1 align=center>Project 4: <em>Rise of the AI</em></h1>
-<h3 align=center><em>Due: 11:59pm, Saturday, April 5th, 2024</em></h3>
+<h3 align=center><em>Due: 11:59pm, Saturday, April 5th, 2025</em></h3>
  
 ## Submission instructions
 1. You _must_ use delta time, a version of our the [**`Entity`**](https://github.com/sebastianromerocruz/CS3113-intro-to-game-programming/tree/main/lectures/entities#week-05), [**`Map`**](https://github.com/sebastianromerocruz/CS3113-intro-to-game-programming/tree/main/lectures/maps#week-08), and [**`Scene`**](https://github.com/sebastianromerocruz/CS3113-intro-to-game-programming/tree/main/lectures/scenes#week-08) classes, and fixed time steps in this assignment.
@@ -9,7 +9,6 @@
 3. Note that any commits done after the deadline will be ignored.
 4. Do not use any OpenGL functionality that we have not learned in class.
 5. All of your `.cpp` files should contain a header comment block as follows:
-
 ```c++
 /**
 * Author: [Your name here]
