@@ -5,7 +5,7 @@
 
 <h3 align=center>14 Lone Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=ievPZZ8rxHU"><strong><u>Double Agent</u></strong></a> by WAV.AV (2016).</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=ievPZZ8rxHU"><strong><u>Double Agent</u></strong></a> by WAV.AV/NICODE (2016).</em></p>
 
 ---
 
