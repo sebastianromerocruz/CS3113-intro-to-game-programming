@@ -2,7 +2,7 @@
 
 <h1 align=center>Effects</h1>
 
-<h3 align=center>1 Red Wolf Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>21 Lone Moon, Imperial Year MMXXV</h3>
 
 <p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=phT2MJAn1KY&ab_channel=TOMORROWXTOGETHER-Topic"><strong><u>APT</u></strong></a> by ROSÉ & Bruno Mars (2024).</em></p>
 
