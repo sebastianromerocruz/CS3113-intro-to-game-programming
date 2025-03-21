@@ -1,4 +1,4 @@
-<!-- <h2 align=center>Week 10</h2>
+<h2 align=center>Week 10</h2>
 
 <h1 align=center>Exercise: <em>Special Effects</em></h1>
 
@@ -35,4 +35,4 @@ int main()
 }
 ```
 
-This exercise involves only the [**`Effects.h`**](exercises/effects/SDLProject/Effects.h), [**`Effects.cpp`**](exercises/effects/SDLProject/Effects.cpp), and [**`main.cpp`**](exercises/effects/SDLProject/main.cpp) files. -->
+This exercise involves only the [**`Effects.h`**](exercises/effects/SDLProject/Effects.h), [**`Effects.cpp`**](exercises/effects/SDLProject/Effects.cpp), and [**`main.cpp`**](exercises/effects/SDLProject/main.cpp) files.
