@@ -132,5 +132,5 @@ For the love of all that is holy and numinous, ***do not procrastinate***.
 
 ## _Penalties_
 
-- **-10pts**: Did not submit [**final project proposal**](https://forms.gle/nnThNUHVudJXbK6c8) by Monday, April 7th, at 11:59pm.
+- **-10pts**: Did not submit [**final project proposal**](https://docs.google.com/forms/d/e/1FAIpQLSe5kFjcfwXpOFLlbW_mB4rPsYHKQXgepdD5ImE2ZCW6v7qUfA/viewform?usp=sharing) by Monday, April 7th, at 11:59pm.
 - **-10pts** (per session): Did not attend play-testing sessions on April 11th _and_ April 18th.
