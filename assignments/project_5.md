@@ -35,7 +35,7 @@
 
 ## You must use new assets (art, music, and sound) for this project!
 
-You can use the fontsheet, but other than that, you can not use anything from the lectures _nor from your previous projects. I.e. no `sophie.png`, `george_0.png`, `tileset.png`, and none of the music or sound effects, etc. You _must_ find new assets.
+You can use the fontsheet, but other than that, you can not use anything from the lectures _nor from your previous projects. I.e. no `sophie.png`, `george_0.png`, `tileset.png`_, and none of the music or sound effects, etc. You _must_ find new assets.
 
 There are some great sources for free assets:
 - More by the same [**artist**](https://kenney.nl/assets).
