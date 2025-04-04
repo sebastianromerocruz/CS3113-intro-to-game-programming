@@ -2,19 +2,21 @@
 
 <h1 align=center>Playtesting</h1>
 
-<h3 align=center>30 Blue Sea Moon, Imperial Year MMXXIV</h3>
+<h3 align=center>4 Great Tree Moon, Imperial Year MMXXV</h3>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://www.youtube.com/watch?v=ifN91YvHj7g"><strong><u> Risk (Official Visualizer) </u></strong></a> by Deftones (2020).</em></p>
+<p align=center><strong><em>Song of the day</strong></em>: <em><a href="https://www.youtube.com/watch?v=lJ0OmBVoTJ4"><strong><u>Far Away</u></strong></a> by Little Simz (2025)</em></p>
 
 ---
 
 ### Sections
 
-1. [**What Playtesting Is**](#part-1-what-playtesting-is)
-2. [**What Playtesting Isn't**](#part-2-what-playtesting-isnt)
-3. [**What Makes For A Good Playtesting Survey**](#part-3-what-makes-for-a-good-playtesting-survey)
+1. [**What Playtesting Is**](#1)
+2. [**What Playtesting Isn't**](#2)
+3. [**What Makes For A Good Playtesting Survey**](#3)
 
 ---
+
+<a id="1"></a>
 
 ### Part 1: _What Playtesting Is_
 
@@ -38,6 +40,8 @@ Playtesting is essential for ensuring that a video game is engaging, enjoyable, 
 
 <br>
 
+<a id="2"></a>
+
 ### Part 2: _What Playtesting Isn't_
 
 The key thing to remember about playtesting and video game testing are _not_ the same thing. While both playtesting/playtesters and video game testing serve important roles in the game development process, they differ in their focus, timing, and goals. Playtesting is more about improving the overall player experience and game design, while video game testing is focused on ensuring technical quality and readiness for release.
@@ -55,6 +59,8 @@ Here are some key differences between playtesting/playtesters and video game tes
 5. **Feedback**: Playtesters often provide qualitative feedback on their overall experience with the game, highlighting what they enjoyed, what they found frustrating, and what changes they would like to see. Video game testers, on the other hand, focus more on documenting specific technical issues and bugs for developers to fix.
 
 <br>
+
+<a id="3"></a>
 
 ### Part 3: _What Makes For A Good Playtesting Survey?_
 
